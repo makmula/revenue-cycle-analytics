@@ -46,7 +46,6 @@ sqlite3 revcycle.db
 ```
 
 ## Dashboard
-*(Add your Tableau Public link and a screenshot here.)*
 
 ![Revenue Cycle Dashboard](dashboard.png.png)
 
