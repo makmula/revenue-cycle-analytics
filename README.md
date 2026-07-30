@@ -48,7 +48,7 @@ sqlite3 revcycle.db
 ## Dashboard
 *(Add your Tableau Public link and a screenshot here.)*
 
-![Revenue Cycle Dashboard](dashboard.png)
+![Revenue Cycle Dashboard](dashboard.png.png)
 
 ## Revenue-cycle KPIs computed
 Denial rate · first-pass resolution rate · net collection rate · POS collection
